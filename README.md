@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sbrunswi
-- 👀 I’m interested in data science, computational social science, human-AI teaming
+- 👀 I’m interested in machine learning, human-AI teaming, and robotics; recently I got really excited about two topics: Machine theory of mind and quantum-inspired RL, and PINNs; I love drones
 - 🌱 I’m currently learning new things, always learning. 
-- 💞️ I’m looking to collaborate on on data science challenges on www.ironhacks.com; I want to turn this into an OSS community.
-- 💞️ I'am recently moving in autonomous system and UAVs; that is something super interesting as it is about control theory and AI/ML. 
+- 💞️ I’m looking to collaborate on areas like machine learning for system identification (including PINNs, etc.) with a focus on aerodynamics and propulsion; I am working on stuff on that
+- 💞️ I'am recently also doing some work on LLM and alignment, and fine-tuning for safety critical scenarios of navigation and route planning; also love to get insights there..
 - 📫 How to reach me sabine.brunswicker@gmail.com 
 
 <!---
